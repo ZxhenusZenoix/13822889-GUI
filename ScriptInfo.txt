@@ -3,7 +3,7 @@
 	["Description"] = "Personal script; QoL stuff, and more...?",
 	["Type"] = "Gui/Singular",
 	
-	["ConsoleOutputFormat"] = "Nowsh LT2 Gui :: "
+	["ConsoleOutputFormat"] = "Nowsh LT2 Gui :: ",
 	
 	["Game(s)"] = {[13822889]=2256}
 }
