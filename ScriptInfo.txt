@@ -5,5 +5,5 @@
 	
 	["ConsoleOutputFormat"] = "Nowsh LT2 Gui :: ",
 	
-	["Game(s)"] = {[13822889]=2256}
+	--["Game(s)"] = {[13822889]=2256}
 }
