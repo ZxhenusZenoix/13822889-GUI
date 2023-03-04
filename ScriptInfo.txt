@@ -1,0 +1,9 @@
+{
+	["Name"] = "Nowoshire's Lumber Tycoon 2 thing idrk",
+	["Description"] = "Personal script; QoL stuff, and more...?",
+	["Type"] = "Gui/Singular",
+	
+	["ConsoleOutputFormat"] = "Nowsh LT2 Gui :: "
+	
+	["Game(s)"] = {[13822889]=2256}
+}
